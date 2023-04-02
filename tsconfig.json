@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"moduleResolution": "node",
+		"target": "ES2020",
+		"sourceMap": true,
+		"outDir": "dist",
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"baseUrl": "src"
+	},
+	"include": ["src/**/*"]
+}
